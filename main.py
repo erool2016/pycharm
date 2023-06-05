@@ -12,3 +12,5 @@ print(minus(10, 6))
 
 def  aaa():
     pass
+def bbb():
+    pass

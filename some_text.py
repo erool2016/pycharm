@@ -6,3 +6,6 @@ def sss(text):
 
 
 print(sss('aaaa'))
+
+def ast():
+    pass
